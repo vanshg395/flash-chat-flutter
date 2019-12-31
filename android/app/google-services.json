@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "634254418994",
+    "firebase_url": "https://fire-chat-ac276.firebaseio.com",
+    "project_id": "fire-chat-ac276",
+    "storage_bucket": "fire-chat-ac276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634254418994:android:f828d503f100e81838882b",
+        "android_client_info": {
+          "package_name": "com.vanshgoel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634254418994-6ljg1buu7mo6n8jambshrt0l6utft70o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLgdRtmlG0EUDz3k5iVYeSboAnkweXw9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634254418994-6ljg1buu7mo6n8jambshrt0l6utft70o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
